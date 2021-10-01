@@ -10,6 +10,9 @@ P {
 ol {list-style-type: lower-alpha;
 }
 
+ul {list-style-type: style type dots;
+}
+
 body {
 	background-color: black;
 	color: white;
