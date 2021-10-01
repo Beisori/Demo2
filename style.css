@@ -17,7 +17,7 @@ body {
 	color: white;
 }
 .mydiv {
-	border: 2px;
+	border: 2px outset blue;
 	height: 100px;
 	width: 100px;
 }
