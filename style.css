@@ -16,3 +16,8 @@ body {
 	background-color: black;
 	color: white;
 }
+.mydiv {
+	border: 2px;
+	height: 100px;
+	width: 100px;
+}
