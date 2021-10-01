@@ -1,3 +1,7 @@
+body {
+	background-color: black;
+}
+
 H1 {
 	font-size: 20px;
 }
@@ -5,3 +9,4 @@ H1 {
 P { 
 	font-size:12px;
 	color: green;
+}
