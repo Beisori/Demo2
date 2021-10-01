@@ -10,9 +10,8 @@ P {
 ol {list-style-type: lower-alpha;
 }
 
-ul {list-style-type: style type square;
+ul {list-style-type: square;
 }
-
 body {
 	background-color: black;
 	color: white;
