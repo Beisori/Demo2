@@ -9,3 +9,9 @@ P {
 
 ol {list-style-type: lower-alpha;
 }
+
+body {
+	background-color: black;
+	color: white;
+}
+
